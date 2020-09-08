@@ -1,47 +1,42 @@
-2020-09-07 17:09:57,365 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
-2020-09-07 17:09:57,447 INFO o.a.j.JMeter: Loading user properties from: user.properties
-2020-09-07 17:09:57,449 INFO o.a.j.JMeter: Loading system properties from: system.properties
-2020-09-07 17:09:57,453 INFO o.a.j.JMeter: Copyright (c) 1998-2020 The Apache Software Foundation
-2020-09-07 17:09:57,453 INFO o.a.j.JMeter: Version 5.3
-2020-09-07 17:09:57,453 INFO o.a.j.JMeter: java.version=1.8.0_191
-2020-09-07 17:09:57,453 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
-2020-09-07 17:09:57,453 INFO o.a.j.JMeter: os.name=Windows 10
-2020-09-07 17:09:57,454 INFO o.a.j.JMeter: os.arch=amd64
-2020-09-07 17:09:57,454 INFO o.a.j.JMeter: os.version=10.0
-2020-09-07 17:09:57,454 INFO o.a.j.JMeter: file.encoding=Cp1252
-2020-09-07 17:09:57,454 INFO o.a.j.JMeter: java.awt.headless=null
-2020-09-07 17:09:57,454 INFO o.a.j.JMeter: Max memory     =1073741824
-2020-09-07 17:09:57,455 INFO o.a.j.JMeter: Available Processors =4
-2020-09-07 17:09:57,539 INFO o.a.j.JMeter: Default Locale=English (EN)
-2020-09-07 17:09:57,540 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
-2020-09-07 17:09:57,541 INFO o.a.j.JMeter: JMeterHome=C:\Users\zulu\Desktop\Jmter Script Folder
-2020-09-07 17:09:57,541 INFO o.a.j.JMeter: user.dir  =C:\Users\zulu\Desktop\Jmter Script Folder\bin
-2020-09-07 17:09:57,542 INFO o.a.j.JMeter: PWD       =C:\Users\zulu\Desktop\Jmter Script Folder\bin
-2020-09-07 17:09:57,554 INFO o.a.j.JMeter: IP: 192.168.43.33 Name: zulu-HP FullName: zulu-HP
-2020-09-07 17:09:58,119 INFO o.a.j.JMeter: Setting LAF to: laf:com.sun.java.swing.plaf.windows.WindowsLookAndFeel
-2020-09-07 17:09:59,280 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
-2020-09-07 17:11:34,444 INFO o.a.j.s.FileServer: Default base='C:\Users\zulu\Desktop\Jmter Script Folder\bin'
-2020-09-07 17:11:34,461 INFO o.a.j.g.a.Load: Loading file: C:\Users\zulu\Desktop\apache-jmeter-5.3\bin\Demo_git_jenkins.jmx
-2020-09-07 17:11:34,461 INFO o.a.j.s.FileServer: Set new base='C:\Users\zulu\Desktop\apache-jmeter-5.3\bin'
-2020-09-07 17:11:34,905 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
-2020-09-07 17:11:35,016 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
-2020-09-07 17:11:35,018 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
-2020-09-07 17:11:35,024 INFO o.a.j.s.SaveService: Loading file: C:\Users\zulu\Desktop\apache-jmeter-5.3\bin\Demo_git_jenkins.jmx
-2020-09-07 17:11:35,144 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
-2020-09-07 17:11:35,144 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
-2020-09-07 17:11:35,145 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
-2020-09-07 17:11:35,145 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
-2020-09-07 17:11:35,145 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
-2020-09-07 17:11:35,145 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
-2020-09-07 17:11:37,898 INFO o.a.j.e.KeyToolUtils: keytool found at 'keytool'
-2020-09-07 17:11:37,899 INFO o.a.j.p.h.p.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that support embedded 3rd party resources in file C:\Users\zulu\Desktop\Jmter Script Folder\bin\proxyserver.jks
-2020-09-07 17:11:38,884 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
-2020-09-07 17:11:38,885 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
-2020-09-07 17:11:38,885 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
-2020-09-07 17:11:38,885 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
-2020-09-07 17:11:39,839 INFO o.a.j.s.FileServer: Set new base='C:\Users\zulu\Desktop\apache-jmeter-5.3\bin'
-2020-09-07 17:20:22,508 INFO o.a.j.g.a.Load: Loading file: C:\Users\zulu\Desktop\apache-jmeter-5.3\bin\Demo_git_jenkins.jmx
-2020-09-07 17:20:22,508 INFO o.a.j.s.FileServer: Set new base='C:\Users\zulu\Desktop\apache-jmeter-5.3\bin'
-2020-09-07 17:20:22,509 INFO o.a.j.s.SaveService: Loading file: C:\Users\zulu\Desktop\apache-jmeter-5.3\bin\Demo_git_jenkins.jmx
-2020-09-07 17:20:23,586 INFO o.a.j.s.FileServer: Set new base='C:\Users\zulu\Desktop\apache-jmeter-5.3\bin'
-2020-09-07 17:20:52,342 INFO o.a.j.s.FileServer: Set new base='C:\Users\zulu\Desktop\apache-jmeter-5.3\bin'
+2020-09-08 19:30:12,992 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2020-09-08 19:30:13,061 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2020-09-08 19:30:13,063 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2020-09-08 19:30:13,087 INFO o.a.j.JMeter: Copyright (c) 1998-2020 The Apache Software Foundation
+2020-09-08 19:30:13,088 INFO o.a.j.JMeter: Version 5.3
+2020-09-08 19:30:13,089 INFO o.a.j.JMeter: java.version=1.8.0_191
+2020-09-08 19:30:13,089 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2020-09-08 19:30:13,089 INFO o.a.j.JMeter: os.name=Windows 10
+2020-09-08 19:30:13,090 INFO o.a.j.JMeter: os.arch=amd64
+2020-09-08 19:30:13,090 INFO o.a.j.JMeter: os.version=10.0
+2020-09-08 19:30:13,090 INFO o.a.j.JMeter: file.encoding=Cp1252
+2020-09-08 19:30:13,091 INFO o.a.j.JMeter: java.awt.headless=null
+2020-09-08 19:30:13,091 INFO o.a.j.JMeter: Max memory     =1073741824
+2020-09-08 19:30:13,091 INFO o.a.j.JMeter: Available Processors =4
+2020-09-08 19:30:13,111 INFO o.a.j.JMeter: Default Locale=English (EN)
+2020-09-08 19:30:13,112 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2020-09-08 19:30:13,112 INFO o.a.j.JMeter: JMeterHome=C:\Users\zulu\Desktop\Jmter Script Folder
+2020-09-08 19:30:13,115 INFO o.a.j.JMeter: user.dir  =C:\Users\zulu\Desktop\Jmter Script Folder\bin
+2020-09-08 19:30:13,117 INFO o.a.j.JMeter: PWD       =C:\Users\zulu\Desktop\Jmter Script Folder\bin
+2020-09-08 19:30:13,123 INFO o.a.j.JMeter: IP: 192.168.43.33 Name: zulu-HP FullName: zulu-HP
+2020-09-08 19:30:13,469 INFO o.a.j.JMeter: Setting LAF to: laf:com.sun.java.swing.plaf.windows.WindowsLookAndFeel
+2020-09-08 19:30:16,552 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2020-09-08 19:31:13,941 INFO o.a.j.s.FileServer: Default base='C:\Users\zulu\Desktop\Jmter Script Folder\bin'
+2020-09-08 19:31:13,958 INFO o.a.j.g.a.Load: Loading file: C:\Users\zulu\Desktop\apache-jmeter-5.3\bin\Demo_git_jenkins.jmx
+2020-09-08 19:31:13,958 INFO o.a.j.s.FileServer: Set new base='C:\Users\zulu\Desktop\apache-jmeter-5.3\bin'
+2020-09-08 19:31:14,314 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2020-09-08 19:31:14,417 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2020-09-08 19:31:14,421 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2020-09-08 19:31:14,431 INFO o.a.j.s.SaveService: Loading file: C:\Users\zulu\Desktop\apache-jmeter-5.3\bin\Demo_git_jenkins.jmx
+2020-09-08 19:31:14,519 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-09-08 19:31:14,519 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-09-08 19:31:14,519 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-09-08 19:31:14,519 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-09-08 19:31:14,520 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2020-09-08 19:31:14,520 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2020-09-08 19:31:15,461 INFO o.a.j.e.KeyToolUtils: keytool found at 'keytool'
+2020-09-08 19:31:15,462 INFO o.a.j.p.h.p.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that support embedded 3rd party resources in file C:\Users\zulu\Desktop\Jmter Script Folder\bin\proxyserver.jks
+2020-09-08 19:31:16,650 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2020-09-08 19:31:16,650 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2020-09-08 19:31:16,651 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2020-09-08 19:31:16,651 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2020-09-08 19:31:17,821 INFO o.a.j.s.FileServer: Set new base='C:\Users\zulu\Desktop\apache-jmeter-5.3\bin'
